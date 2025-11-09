@@ -1,4 +1,5 @@
 <!-- Animated typography -->
+<!--
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=50&duration=2000&pause=1000&color=F7F7F7
@@ -6,6 +7,7 @@
     Hi%2C+I'm+Daniel+Z%C3%BA%C3%B1iga;Also+known+as+Dazu;Daniel+Z%C3%BA%C3%B1iga+(Dazu)" />
   </a>
 </div>
+-->
 
 <!-- Banner -->
 
